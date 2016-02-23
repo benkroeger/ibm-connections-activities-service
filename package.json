@@ -1,0 +1,44 @@
+{
+  "name": "ibm-connections-activities-service",
+  "version": "0.0.1",
+  "description": "An IBM Connections Activities API Wrapper, using the oniyi-http-client package for http abstraction",
+  "homepage": "",
+  "author": {
+    "name": "Benjamin Kroeger",
+    "email": "benjamin.kroeger@gmail.com",
+    "url": ""
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "keywords": [
+    "ibm-connections",
+    "activities",
+    "oniyi"
+  ],
+  "dependencies": {
+    "lodash": "4.5.1",
+    "oniyi-http-client": "0.0.2",
+    "oniyi-logger": "0.3.1",
+    "oniyi-utils-xml": "0.1.0"
+  },
+  "devDependencies": {
+    "eslint": "1.10.3",
+    "eslint-config-oniyi": "1.1.2",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-exclude-gitignore": "^1.0.0",
+    "gulp-istanbul": "^0.10.3",
+    "gulp-mocha": "^2.0.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-nsp": "^2.1.0",
+    "gulp-coveralls": "^0.1.0"
+  },
+  "repository": "benkroeger/ibm-connections-activities-service",
+  "scripts": {
+    "prepublish": "gulp prepublish",
+    "test": "gulp"
+  },
+  "license": "MIT"
+}
