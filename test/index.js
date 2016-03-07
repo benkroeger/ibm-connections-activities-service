@@ -6,7 +6,7 @@ const ibmConnectionsActivitiesService = require('../lib');
 const activitiesService = ibmConnectionsActivitiesService('https://apps.na.collabserv.com/activities', {});
 
 /* eslint-disable max-len */
-const accessToken = '2e3257a24b60e074dc54644fc781128191689d84545c582639283ec586a0f9264f364bf7068b9199c1077afc61dae16df8bff54683459ff2229be857e966508f971aff2651bba052a142f7446a43f32fa45782b17d339ad3aa94e3f0498f5001f459c633bf00fec96ae9b680db3d9c08b7c1e781c91f6092275d6cc1b82b1fa';
+const accessToken = '4748d9baef4bd41685f750243c1e3f1d992f8dbc67ce696f1dfe5fb1425d69dcac94a490d39637b432bdbca1c1822fa91395407bd9c3015dca250af2a9e66ddd516f7a2d568c553243b94cad602c5bf69e4b048c4f6c8a8ee87e458fda6dea2b23280ee788c9cb48102499e63d53f67cf8dac8c2648cb8feed7758227fe67cde';
 /* eslint-enable max-len */
 
 
