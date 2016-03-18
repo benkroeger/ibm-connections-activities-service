@@ -1,6 +1,6 @@
 {
   "name": "ibm-connections-activities-service",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An IBM Connections Activities API Wrapper, using the oniyi-http-client package for http abstraction",
   "homepage": "",
   "author": {
