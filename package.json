@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "lodash": "^4.10.0",
-    "oniyi-http-client": "^0.1.0",
+    "oniyi-http-client": "^0.2.0",
     "oniyi-logger": "^0.4.2",
     "oniyi-utils-xml": "^0.1.0"
   },
